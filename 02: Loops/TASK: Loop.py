@@ -1,4 +1,4 @@
-# TASK 2A: FizzBuzz (Classic interview question)
+# TASK 2A: FizzBuzz
 # Print 1 to 50:
 # - "Fizz" if divisible by 3
 # - "Buzz" if divisible by 5  
