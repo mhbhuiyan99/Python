@@ -1,4 +1,3 @@
-```python
 # Sets: unordered, no duplicates, fast lookup
 unique_nums = {1, 2, 3, 3, 3}   # {1, 2, 3} - duplicates auto-removed
 
@@ -14,4 +13,3 @@ print(a ^ b)          # Symmetric diff: {1, 2, 5, 6}
 # Useful for removing duplicates from list
 nums = [1, 2, 2, 3, 3, 3]
 unique = list(set(nums))   # [1, 2, 3] (order not guaranteed)
-```
