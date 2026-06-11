@@ -1,4 +1,3 @@
-```python
 # TASK 1A
 scores = [85, 92, 78, 65, 92, 88, 76, 92, 95, 60]
 
@@ -41,4 +40,3 @@ for s in students:
 
 # Or more Pythonic with defaultdict (we'll cover later)
 print(f"Grade map: {grade_map}")
-```
