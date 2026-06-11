@@ -1,4 +1,3 @@
-```python
 # TASK 1A: Given this list of student scores
 scores = [85, 92, 78, 65, 92, 88, 76, 92, 95, 60]
 
@@ -20,4 +19,4 @@ students = [
 # 2. Calculate average age
 # 3. Create a dict mapping grade -> list of names
 #    Expected: {"A": ["Alice", "Charlie"], "B": ["Bob"], "C": ["Diana"]}
-```
+
