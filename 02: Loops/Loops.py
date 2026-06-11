@@ -1,4 +1,3 @@
-```python
 # range() - generates sequence
 for i in range(5):        # 0, 1, 2, 3, 4
     print(i)
@@ -37,4 +36,4 @@ for num in range(10):
     if num == 7:
         break         # Exit loop
     print(num)
-```
+
