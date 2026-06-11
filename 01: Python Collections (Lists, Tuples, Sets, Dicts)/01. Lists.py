@@ -1,4 +1,3 @@
-```python
 # Creating lists
 nums = [1, 2, 3, 4, 5]
 mixed = [1, "hello", 3.14, True]      # Python lists can hold any type
@@ -30,4 +29,4 @@ print(5 in nums)      # Check existence: True/False
 nums.sort()           # Sort in-place
 nums.sort(reverse=True)  # Descending
 sorted_nums = sorted(nums)  # Returns new sorted list (original unchanged)
-```
+
