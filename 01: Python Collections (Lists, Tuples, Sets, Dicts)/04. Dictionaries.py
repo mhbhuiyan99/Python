@@ -1,4 +1,3 @@
-```python
 # Like JS objects or Go maps, but more powerful
 person = {
     "name": "Alice",
@@ -31,4 +30,3 @@ for value in person.values():       # Just values
 # Dictionary comprehension
 squares = {x: x**2 for x in range(5)}
 # {0: 0, 1: 1, 2: 4, 3: 9, 4: 16}
-```
