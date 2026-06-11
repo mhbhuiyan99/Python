@@ -1,4 +1,3 @@
-```python
 # Tuples are immutable - use when data shouldn't change
 point = (3, 4)
 rgb = (255, 128, 0)
@@ -13,4 +12,3 @@ a, b = b, a           # a=10, b=5
 
 # Tuple with one element needs comma
 single = (5,)         # NOT (5) - that would just be int 5
-```
